@@ -1,6 +1,6 @@
 <?php
 
-namespace AOS\Config;
+namespace Aos\Config;
 
 
 use Wangoviridans\Config\Nested as Nested;
