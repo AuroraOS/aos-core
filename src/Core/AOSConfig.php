@@ -1,6 +1,6 @@
 <?php
 
-namespace Aos\Config;
+namespace Aos\Core;
 
 use Aos\Exception;
 use Wangoviridans\Config\Nested as Nested;
