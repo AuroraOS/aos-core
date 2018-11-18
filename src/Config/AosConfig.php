@@ -2,7 +2,7 @@
 
 namespace Aos\Config;
 
-
+use Aos\Exception;
 use Wangoviridans\Config\Nested as Nested;
 /**
  * [AosConfig Class]
