@@ -1,0 +1,23 @@
+{
+    "name": "auroraos/aos-core",
+    "description": "AOS Standalone core functions.",
+    "type": "library",
+		"version": "1.0.0",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Bali Cako",
+            "email": "foxi4ever@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+		"require": {
+        "php": ">=5.3.0",
+				"wangoviridans/config": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "AOS\\": "src/"
+        }
+    }
+}
