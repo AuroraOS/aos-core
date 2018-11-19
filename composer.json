@@ -12,7 +12,8 @@
     ],
 		"require": {
         "php": ">=5.3.0",
-				"wangoviridans/config": ">= 0.0.1"
+				"wangoviridans/config": ">= 0.0.1",
+				"stolz/assets": "^0.1.11"
     },
     "autoload": {
         "psr-4": {
